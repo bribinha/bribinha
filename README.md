@@ -1,17 +1,17 @@
 # Olá, eu sou o Fabrício Cavalcante 👋
 
-<a href="https://www.linkedin.com/in/fabricio-cavalcante/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+<a href="https://www.linkedin.com/in/-fabricio/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn do Fabrício Cavalcante"></a>
 
 ---
 
 ### 👨‍💻 Sobre Mim
 
-Desenvolvedor Full Stack Sênior com 8 anos de experiência, apaixonado por criar soluções robustas e escaláveis. Tenho vasta experiência em arquitetura de sistemas, integrações complexas e em liderar o desenvolvimento de aplicações web modernas. Atualmente, estou focado em aprofundar meus conhecimentos no ecossistema JavaScript/TypeScript com Next.js, Node.js e arquiteturas reativas.
+Desenvolvedor Full Stack Sênior com +8 anos de experiência, apaixonado por criar soluções robustas e escaláveis. Tenho vasta experiência em arquitetura de sistemas, integrações complexas e em liderar o desenvolvimento de aplicações web modernas. Atualmente, estou focado em aprofundar meus conhecimentos no ecossistema JavaScript/TypeScript com Angular, Next.js, Node.js e arquiteturas reativas.
 
 - 🔭 Atualmente trabalhando no meu portfólio com o projeto **[BarberGuide](https://github.com/bribinha/barberguide-frontend)**.
 - 🌱 Aprimorando minhas habilidades em: **NgRx, Testes Automatizados (TDD), e Arquitetura Multi-tenancy**.
 - 💬 Aberto para discutir sobre: **Arquitetura de Software, Boas Práticas de Testes, Angular, Laravel e Node.js**.
-- 📫 Como me encontrar: **[LinkedIn](https://www.linkedin.com/in/fabricio-cavalcante/)** ou por e-mail: `seu.email@provedor.com`
+- 📫 Como me encontrar: **[LinkedIn](https://www.linkedin.com/in/-fabricio/)** ou por e-mail: `fabriciomade5@gmail.com`
 - 📍 Morando em: **Curitiba, Paraná**.
 
 ---
@@ -20,6 +20,8 @@ Desenvolvedor Full Stack Sênior com 8 anos de experiência, apaixonado por cria
 
 #### **Frontend**
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![NgRx](https://img.shields.io/badge/NgRx-BA2BD2?style=for-the-badge&logo=ngrx&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![RxJS](https://img.shields.io/badge/RxJS-E83B8A?style=for-the-badge&logo=rxjs&logoColor=white)
@@ -31,6 +33,7 @@ Desenvolvedor Full Stack Sênior com 8 anos de experiência, apaixonado por cria
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 
